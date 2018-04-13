@@ -5,3 +5,4 @@ hello
 # cd samtools-1.3
 # ./configure
 # make
+$ samtools
